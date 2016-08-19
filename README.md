@@ -1,1 +1,1 @@
-# skul-man
+Skul Man Project by Afrologix Team
